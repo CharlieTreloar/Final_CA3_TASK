@@ -28,7 +28,7 @@
 
   </head>
 
-  <body>
+  <body style="background-color: var(--c-background-color)">
     <!-- Here is our main header that is used across all the pages of our website -->
 
     <header>
